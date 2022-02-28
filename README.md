@@ -44,3 +44,5 @@ This project is an API for a social network web application where users can shar
 
  Gif: ![](./assets/CombinedGif.gif)
 
+## Credits:
+Parul Raj
