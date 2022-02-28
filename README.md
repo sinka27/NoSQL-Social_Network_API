@@ -41,3 +41,6 @@ This project is an API for a social network web application where users can shar
  
  ## Walkthrough Video
  You can view a walkthrough video of the app [here](https://drive.google.com/file/d/1Hfwe3t_OAWEj-mJjlGEUKPb-tD0tLTih/view?usp=sharing)
+
+ Gif: ![](./assets/CombinedGif.gif)
+
